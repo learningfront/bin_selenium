@@ -4,13 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node .\\index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learningfront/bin_selenium.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learningfront/bin_selenium/issues"
+  },
+  "homepage": "https://github.com/learningfront/bin_selenium#readme",
   "dependencies": {
-    "@mtproto/core": "^6.3.0"
+    "@mtproto/core": "6.3.0"
   }
 }
